@@ -1,8 +1,9 @@
-Programmation Orientée Objet avancée : projet final
+#Programmation Orientée Objet avancée : projet final
+***
 
-Réalisation d'une application Web avec le Framework Java Spring Boot.
+###Réalisation d'une application Web avec le Framework Java Spring Boot.
 
-Procédure d'installation et du bon fonctionnement de l'application.
+####Procédure d'installation et du bon fonctionnement de l'application.
 - cloner le repositories projet_JavaSpring : [https://github.com/Dingunus/projet_JavaSpring.git](https://github.com/Dingunus/projet_JavaSpring.git)
 
 - Sur Visual Studio Code si ce n'est pas déjà fait installer une extension permettant de build et executer un programme en Java.
